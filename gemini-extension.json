@@ -1,0 +1,11 @@
+{
+  "name": "docket-seo",
+  "version": "1.0.0",
+  "description": "Read-only SEO checks of any public web page: a scored one-page check, AI crawler access in robots.txt, redirect chains, HTTP headers and search snippet previews.",
+  "mcpServers": {
+    "docket-seo": {
+      "httpUrl": "https://mcp.docketseo.app/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
